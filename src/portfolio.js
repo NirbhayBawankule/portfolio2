@@ -78,19 +78,15 @@ https://fontawesome.com/icons?d=gallery */
   },
   {
     skillName: "Scikit-Learn",
-    iconifyTag: "logos:scikit-learn"
+    iconifyTag: "simple-icons:scikitlearn"
   },
   {
     skillName: "TensorFlow",
-    iconifyTag: "logos:tensorflow-icon"
+    iconifyTag: "logos:tensorflow"
   },
   {
     skillName: "PyTorch",
     iconifyTag: "logos:pytorch-icon"
-  },
-  {
-    skillName: "Node.js",
-    iconifyTag: "logos:nodejs-icon"
   },
   {
     skillName: "GitHub",
