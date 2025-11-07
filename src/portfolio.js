@@ -163,7 +163,7 @@ const workExperiences = {
     {
       role: "ML Domain Member",
       company: "Coding Ninjas Society, KIIT University",
-      companylogo: require("./assets/images/cn.jpg"),
+      companylogo: require("./assets/images/cn.png"),
       date: "August 2025 – Present",
       desc: "Collaborated with peers on ML-focused sessions, discussions, and coding events to foster a practical learning environment and strengthen applied machine learning skills.",
       descBullets: []
@@ -176,7 +176,16 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: true, // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: true,
+  opensource: [{
+    role: "Hacktoberfest 2025 Contributor",
+    company: "Hacktoberfest",
+    companylogo: require("./assets/images/hack.webp"),
+    date: "October 2025",
+    desc: "Contributed to open-source projects during Hacktoberfest 2025, earning badges for active participation and successful pull requests.",
+  }
+
+  ] // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -229,7 +238,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Achievements, Certifications, and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
