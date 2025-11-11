@@ -26,7 +26,7 @@ const greeting = {
     "I am a Computer Science student at KIIT University, passionate about building transparent, reliable, and practical machine learning systems. My work spans projects in predictive modeling, data analysis, and neural networks. I enjoy turning complex data into actionable insights and exploring the intersection of algorithms, AI, and human decision-making. This portfolio showcases my projects, skills, and experience in Python, Machine Learning, Deep Learning, and MLOps."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1JaXZh9MW9azPc_0rF3hcuh2BbztU0LDk/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1VmOVESCDW9fxfajaOczkpR7sXXE4elhr/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
